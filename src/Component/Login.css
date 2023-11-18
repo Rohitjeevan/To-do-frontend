@@ -1,0 +1,44 @@
+
+
+
+.loginform{
+   
+    width: 50vh;
+    margin-left: 70vh;
+    margin-top: 10vh;
+}
+
+.loginform input {
+    display: block;
+    padding: 10px;
+    margin: 20px;
+    width: 40vh;
+}
+
+.loginform button{
+    padding: 10px;
+    margin: 20px;
+    width: 40vh;
+    cursor: pointer;
+}
+
+.register{
+    text-decoration: none;
+    color: black;
+    
+}
+.toItem{
+   
+    width: 30vw;
+    margin-left: 80vh;
+}
+.toItem input{
+    display: inline;
+    margin: 10px;
+}
+
+.toItem span{
+    font-size: large;
+    font-weight: bold;
+    color: black;
+}

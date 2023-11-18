@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    width: 100%;
+    padding-top: 20px ;
+    padding-bottom: 20px ;
+}
+
+.header span{
+   
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 40px;
+}
+.navbar{
+    margin-left: 20vh;
+    color: #ffff;
+    text-decoration: none;
+    font-size: large;
+}
+
+.navbarbutton{
+    width: 10wh;
+}
+
+.header button{
+    margin-left: 20vh;
+    background-color: black;
+    color: white;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+}
